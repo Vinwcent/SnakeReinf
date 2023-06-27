@@ -9,9 +9,9 @@ The objective is to give intuition about reinforcement learning to beginners by 
 ## Installation
 
 You just need 3 packages,
-'''
+```
 pip install gymnasium pygame tqdm
-'''
+```
 
 ## Additional ressources
 
