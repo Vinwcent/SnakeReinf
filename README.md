@@ -13,7 +13,7 @@ You just need 3 packages,
 pip install gymnasium pygame tqdm
 ```
 
-## Additional ressources
+## Additional informations
 
-This code was part of a workshop at the AI Institute in Dynamics Systems
-
+This code was also part of a small demonstration in a workshop at the AI Institute in Dynamics Systems
+https://dynamicsai.org/seminars/MLWorkshop/
