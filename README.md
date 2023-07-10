@@ -16,4 +16,5 @@ pip install gymnasium pygame tqdm
 ## Additional informations
 
 This code was also part of a small demonstration in a workshop at the AI Institute in Dynamics Systems
+
 https://dynamicsai.org/seminars/MLWorkshop/
